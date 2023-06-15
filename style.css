@@ -1,0 +1,25 @@
+.body{
+    height: 800px;
+    width: 800px;
+    background-color: black;
+    color: white;
+}
+.container{
+    height: 300px;
+    width: 230px;
+    border-radius: 20px;
+    border: 1px solid;
+    padding: 20px;
+    color: black;
+    background-color: whitesmoke;
+}
+button{
+    position: fixed;
+    height: 50px;
+    width: 150px;
+    border: 2px solid;
+    background-color: gray;
+}
+article{
+    color: black;
+}
